@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on Apelabs</title>
+    <link>/arduino/</link>
+    <description>Recent content in Arduino on Apelabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="/arduino/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

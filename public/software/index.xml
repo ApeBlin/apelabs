@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Apelabs</title>
+    <link>/software/</link>
+    <description>Recent content in Software on Apelabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Souls 2 Fashion Viewer website.</title>
+      <link>/software/darksouls2fashion/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/software/darksouls2fashion/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/software/darksouls2fashion/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hosting Apelabs website using Hugo/Blowfish and GitHubPages</title>
+      <link>/software/hugowebsite/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/software/hugowebsite/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/software/hugowebsite/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
